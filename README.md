@@ -24,3 +24,12 @@
 
 </div>
 
+<div align="center">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ggazila)
+
+</div>
+
+
+
+
