@@ -18,11 +18,12 @@
   <h3>Algorithm's stats</h3>
   
   Codewars
-  ![codewars](https://www.codewars.com/users/username/badges/large)
+  ![codewars](https://www.codewars.com/users/ggazila/badges/large)
 
+  <div>
   Leetcode
-  ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)
-
+  ![leetcode](https://leetcode-stats-six.vercel.app/api?username=yevtushoksergey)
+  </div>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggazila&show_icons=true&locale=en&layout=compact" alt="ggazila" /></p>
