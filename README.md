@@ -3,7 +3,9 @@
 <h3 align="center">Software Engeeneer from Ukraine</h3>
 <hr/>
 
+<div align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=ggazila)
+</div>
 
 <hr/>
 
