@@ -21,8 +21,10 @@
   ![codewars](https://www.codewars.com/users/ggazila/badges/large)
 
   <div>
+    
   Leetcode
   ![leetcode](https://leetcode-stats-six.vercel.app/api?username=yevtushoksergey)
+    
   </div>
 </div>
 
