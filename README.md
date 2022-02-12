@@ -18,7 +18,7 @@
   <h3>Algorithm's stats</h3>
   
   Codewars
-  ![codewars](https://www.codewars.com/users/ggazila/badges/large)
+  ![codewars](https://www.codewars.com/users/ggazila/badges/small)
 
   <div>
     
