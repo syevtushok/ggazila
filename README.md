@@ -48,17 +48,17 @@
 </div>
 
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggazila)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggazila&theme=solarized_dark)
 
 Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggazila)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggazila&theme=solarized_dark)
 
 Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggazila)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggazila&theme=solarized_dark)
 
 Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggazila)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggazila&theme=solarized_dark)
 
 Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggazila)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggazila&theme=solarized_dark)
 
