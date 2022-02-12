@@ -37,12 +37,6 @@
 
 <div align="center">
 
-![Codewars](https://github-readme-stats.vercel.app/api?username=ggazila)
-
-</div>
-
-<div align="center">
-
 ![codewars](https://www.codewars.com/users/ggazila/badges/small)
 
 </div>
@@ -54,17 +48,17 @@
 </div>
 
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggazila)
 
 Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggazila)
 
 Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggazila)
 
 Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggazila)
 
 Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ggazila)
 
